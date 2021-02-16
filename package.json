@@ -1,0 +1,19 @@
+{
+  "name": "just-a-json-server",
+  "version": "1.0.0",
+  "description": "A simple server to provide data in json format",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSON",
+    "Server"
+  ],
+  "author": "Nicola Paoli <nicolapaoli.work@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

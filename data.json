@@ -1,0 +1,10 @@
+{
+    "info": {
+        "version": "1.0.0"
+    },
+    "users": [{
+        "id": 123,
+        "firstname": "Nicola",
+        "lastname": "Paoli"
+    }]
+}
